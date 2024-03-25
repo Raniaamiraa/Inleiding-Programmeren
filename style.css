@@ -1,0 +1,28 @@
+body {
+    background-image: url('images/decoratie.kiezen.svg');
+
+    background-size: cover;
+    background-position: top;
+    height: 100%;
+    margin: 0;
+    background-attachment: fixed;
+}
+
+
+img.boe {
+    height: 380px;
+    padding-top: 23em;
+    padding-left: 18em;
+    position: fixed;
+}
+
+
+#container {
+    width: 350px;
+    float: right;
+    padding-right: 7em;
+    padding-top: 10em;
+    padding-left: 61em;
+    position: fixed;
+}
+
